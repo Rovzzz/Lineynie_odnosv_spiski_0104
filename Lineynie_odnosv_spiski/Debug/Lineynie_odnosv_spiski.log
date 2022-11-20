@@ -1,0 +1,15 @@
+﻿  Source.c
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(24,9): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(90,19): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(98,24): warning C4047: =: "s *" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(90,1): warning C4047: инициализация: "s *" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(126,7): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(144,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(134,1): warning C4047: инициализация: "s *" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(170,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(191,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(195,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(209,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Lineynie_odnosv_spiski\Source.c(182): warning C4716: delete_element: должна возвращать значение
+  Lineynie_odnosv_spiski.vcxproj -> C:\Users\1290743\Desktop\Системное программирование\Lineynie_odnosv_spiski\Debug\Lineynie_odnosv_spiski.exe
